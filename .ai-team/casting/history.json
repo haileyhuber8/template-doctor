@@ -1,0 +1,24 @@
+{
+  "universe_usage_history": [
+    {
+      "assignment_id": "td-lotr-001",
+      "universe": "The Lord of the Rings",
+      "timestamp": "2025-07-25T00:00:00Z"
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "td-lotr-001": {
+      "universe": "The Lord of the Rings",
+      "agent_map": {
+        "gandalf": "Gandalf",
+        "frodo": "Frodo",
+        "gimli": "Gimli",
+        "legolas": "Legolas",
+        "eowyn": "Eowyn",
+        "sam": "Sam",
+        "sauron": "Sauron"
+      },
+      "created_at": "2025-07-25T00:00:00Z"
+    }
+  }
+}

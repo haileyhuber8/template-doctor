@@ -1,0 +1,53 @@
+{
+  "agents": {
+    "gandalf": {
+      "persistent_name": "Gandalf",
+      "universe": "The Lord of the Rings",
+      "created_at": "2025-07-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "frodo": {
+      "persistent_name": "Frodo",
+      "universe": "The Lord of the Rings",
+      "created_at": "2025-07-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "gimli": {
+      "persistent_name": "Gimli",
+      "universe": "The Lord of the Rings",
+      "created_at": "2025-07-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "legolas": {
+      "persistent_name": "Legolas",
+      "universe": "The Lord of the Rings",
+      "created_at": "2025-07-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "eowyn": {
+      "persistent_name": "Eowyn",
+      "universe": "The Lord of the Rings",
+      "created_at": "2025-07-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "sam": {
+      "persistent_name": "Sam",
+      "universe": "The Lord of the Rings",
+      "created_at": "2025-07-25T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "sauron": {
+      "persistent_name": "Sauron",
+      "universe": "The Lord of the Rings",
+      "created_at": "2026-02-19T00:00:00Z",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
+}
